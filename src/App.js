@@ -2,10 +2,10 @@ import React from "react";
 import "./style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.min.js";
-import Header from "./main/Header";
-import Banner from "./main/Banner"
-import CARD_INFO from "./data/card-info";
-import Footer from "./main/Footer";
+import Header from "./components/main/Header";
+import Banner from "./components/main/Banner"
+import CARD_INFO from "./components/data/card-info";
+import Footer from "./components/main/Footer";
 import Card from "./components/content/Card";
 
 
